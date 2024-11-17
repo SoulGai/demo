@@ -40,6 +40,8 @@ public class Palindrome {
         System.out.println(isPalindrome(121));
         System.out.println(isPalindrome(-121));
         System.out.println(isPalindrome(13));
+        System.out.println(isPalindrome(32));
+
 
     }
 }
