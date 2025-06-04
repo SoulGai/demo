@@ -1,4 +1,4 @@
-package com.leetcode.todo;
+package com.leetcode.solving;
 
 /**
  * @program: leetcode
