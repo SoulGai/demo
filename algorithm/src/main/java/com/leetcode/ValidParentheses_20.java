@@ -18,7 +18,7 @@ import java.util.Stack;
  * 输入：s = "([])"     true
  **/
 
-public class ValidParentheses {
+public class ValidParentheses_20 {
     public static void main(String[] args) {
         System.out.println(isValid("()")); // true
         System.out.println(isValid("()[]{}")); // true

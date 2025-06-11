@@ -26,7 +26,7 @@ import java.util.Map;
  * C 可以放在 D (500) 和 M (1000) 的左边，来表示 400 和 900。
  * 给定一个罗马数字，将其转换成整数。
  **/
-public class RomanToIntegerWithValidation {
+public class RomanToIntegerWithValidation_13 {
     public static void main(String[] args) {
         System.out.println("罗马数字 III 转换为整数: " + romanToInt("III")); // 3
         System.out.println("罗马数字 IV 转换为整数: " + romanToInt("IV")); // 4
