@@ -6,7 +6,7 @@ import java.util.Map;
 
 /**
  * @program: leetcode
- * @description: 找出变位映射
+ * @description: 找出变位映射_760
  * @author: SoulGai
  * @create: 2024-11-17 12:17
  * 给你两个整数数组 nums1 和 nums2，其中 nums2 是 nums1 的一个 变位词 。两个数组都可能包含重复元素。
@@ -20,7 +20,7 @@ import java.util.Map;
  * 输入：nums1 = [84,46], nums2 = [84,46]
  * 输出：[0,1]
  **/
-public class DisplacementMap {
+public class DisplacementMap_760 {
 
     public static int[] anagramMappings(int[] nums1, int[] nums2){
         // 创建映射数组
