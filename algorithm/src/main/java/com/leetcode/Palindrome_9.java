@@ -12,7 +12,7 @@ package com.leetcode;
  * 输入：x = -121 输出：false
  * 输入：x = 10 输出：false
  **/
-public class Palindrome {
+public class Palindrome_9 {
     /** 数学法：不需要额外空间，性能更优
      * 利用整数反转的方法，计算原数字的反转值。
      * 如果原数字和反转值相等，则是回文数。
