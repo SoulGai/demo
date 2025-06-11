@@ -10,7 +10,7 @@ package com.leetcode;
  * 输入：strs = ["flower","flow","flight"] 输出："fl"
  * 输入：strs = ["dog","racecar","car"]    输出：""
  **/
-public class LongestCommonPrefix {
+public class LongestCommonPrefix_14 {
     public static void main(String[] args) {
         String[] strs1 = {"flower", "flow", "flight"};
         String[] strs2 = {"dog", "racecar", "car"};
