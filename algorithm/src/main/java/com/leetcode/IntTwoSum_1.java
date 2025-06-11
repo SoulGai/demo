@@ -23,7 +23,7 @@ import java.util.Map;
  * 在遍历过程中，对于当前元素 nums[i]，检查 target - nums[i] 是否已经存在于哈希表中。如果存在，则返回结果。
  * 时间复杂度：O(n)，空间复杂度：O(n)。
  **/
-public class IntTwoSum {
+public class IntTwoSum_1 {
     /**
      * 哈希表工作原理：
      * 遍历数组时，对于每个元素，检查是否可以通过当前哈希表中的元素和它配对得到目标值。
